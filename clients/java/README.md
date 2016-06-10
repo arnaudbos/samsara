@@ -14,6 +14,13 @@ Todo:
   - Implement or find relevant implementation of Java ring buffer
   - Implement `record-event`
 
+Links explored:
+
+  - [OkHttp](http://square.github.io/okhttp/) for the Http client (wraps Apache HttpComponents)
+  - [Multiple dispatch pattern](https://en.wikipedia.org/wiki/Multiple_dispatch)
+  - [Visitor design pattern](https://en.wikipedia.org/wiki/Visitor_pattern)
+  -
+
 ## Usage
 
 To use the Samasara SDK you need to add the following dependency.
